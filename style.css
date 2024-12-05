@@ -1,0 +1,190 @@
+    .list{
+        font-size: large;
+        list-style-type: none;
+        display:  flex;
+        gap: 15px;
+    }
+
+    .para{
+        margin-left: 12pc;
+    }
+
+    .first{
+        background-color: beige;
+        padding: 5px;
+        display: flex;
+        cursor: pointer;
+    }
+
+    .image{
+        margin-left: 8pc;
+    }
+
+    .btn{
+        margin-left: 8pc;
+        padding: 8px 8px;
+        border-radius: 10px;
+        border: 1px solid black;
+        height: 40px;
+        gap: 6px;
+    }
+
+    .box{
+        display: flex;
+        align-items: flex-start;
+        cursor: pointer;
+    }
+
+    .lt{
+        display: flex;
+        gap:25px;
+        list-style-type: none;
+        font-size: large;
+        margin-left: 10pc;
+        align-items: flex-start;
+    }
+
+    .second{
+        padding: 40px;
+        background-color: rgba(255, 228, 196, 0.589);  
+    }
+
+    .img{
+        margin-left: 27pc;
+    }
+
+     .iv{
+        display: flex;
+
+     }
+
+    .gr{
+        display: grid;
+        padding: 0px 30px  0px 30px;
+        grid-template-columns: auto auto auto auto;
+        gap: 10px;
+     }
+
+     .grid{
+        border: 1px solid whitesmoke;
+        margin-inline: 10px;
+        text-align: center;
+        cursor: pointer;
+        align-items: center;
+     }
+
+    .sma{
+        display: flex;
+       border: solid 1px black;
+       padding: 20px 40px;
+       background-color: white;
+       gap: 10px;
+    }
+
+    .big{
+        padding: 7px;
+        background-color: indianred;
+        border-radius: 5px;
+        border: 0px;
+    }
+
+    .high{
+       color: crimson;
+       margin-left: 50pc;
+    }
+
+    .bubu{
+        display: flex;
+        margin-inline: 35px;
+    }
+
+    .gi{
+        display: flex;
+        padding: 0px 30px  0px 30px;
+        gap: 10px;
+     }
+
+     .gd{
+        border: 2px solid whitesmoke;
+        margin-inline: 10px;
+        text-align: center;
+        cursor: pointer;
+        align-items: center;
+     }
+
+     .BG{
+        margin-inline: 50px;
+     }
+
+     .BN{
+        background-color: rgba(173, 216, 230, 0.541);
+        padding:  45px 80px;
+     }
+
+     .NA{
+        display: flex;
+        gap: 25px;
+     }
+
+     .MIN{
+        background-color: white;
+        padding: 30px 1px;
+     }
+
+     .AM{
+        display: flex;
+        gap: 10px;
+     }
+
+     .mm{
+        display: flex;
+        gap: 25px;
+        padding: 20px  70px;
+     }
+
+     .line{
+        background-color: rgba(176, 196, 222, 0.308);
+        padding: 30px 80px;
+     } 
+
+     .pre{
+        display: flex;
+        gap: 65px;
+     }
+     
+     .ag{
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     }
+
+     .body{
+        display: flex;
+        background-color: darkslateblue;
+        padding: 40px;
+        gap: 85px;
+        color: white;
+     }
+
+     .bigi{
+        display: flex;
+        cursor: pointer;
+     }
+
+     .bigi li{
+        list-style-type: none;
+     }
+
+     .fn{
+        color: antiquewhite;
+        font-size: large;
+     }
+
+     .foot{
+        padding: 35px;
+        background-color: khaki;
+        text-align: center;
+     }
+
+     
+    
+
+
